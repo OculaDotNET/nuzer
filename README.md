@@ -1,6 +1,6 @@
 # Nuzer Browser
 
-![Logo](path/to/your/logo.png) <!-- Replace with the path to your logo -->
+![Logo](Logo.png)
 
 A simple and barebones browser made with CefSharp. This project is designed for server use!
 
