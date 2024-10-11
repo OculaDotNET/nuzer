@@ -1,6 +1,6 @@
 # Nuzer Browser
 
-![Logo](Logo.png)
+<img src="Logo.png" alt="Logo" width="150"/>
 
 A simple and barebones browser made with CefSharp. This project is designed for server use!
 
