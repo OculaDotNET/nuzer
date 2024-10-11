@@ -1,21 +1,36 @@
-MIT License
+Version 1.0
 
 Copyright (c) 2024 OculaDotNET
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. License Grant
+By using the Nuzer web browser, (referred to as "the Software"), you are granted the following permissions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Decompilation: You are allowed to decompile, reverse-engineer, and analyze the Software for personal or educational purposes.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Modification: You are permitted to modify the decompiled code to create derivative works.
+
+Personal Use: You may use the decompiled or modified versions of the Software for personal or non-commercial purposes.
+
+Limited Redistribution: You may redistribute the modified versions of the Software, provided you:
+
+Include this license in any distribution.
+Clearly state that the original Software has been modified.
+
+2. Restrictions
+You are not permitted to:
+
+Use the Software or any derivative works for commercial purposes without explicit permission from the copyright holder.
+Claim ownership of the original Software or its code.
+Redistribute the original (unmodified) Software without permission.
+
+3. No Source Code Provided
+The Software is provided as a compiled binary. The original source code is not included, and no request for the source code will be entertained.
+
+4. Disclaimer of Warranties
+The Software is provided "as is", without warranty of any kind. The author(s) disclaim all warranties, whether express or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+5. Limitation of Liability
+In no event shall the author(s) or copyright holder(s) be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+6. Termination
+This license is effective until terminated. If you violate any terms of this license, your rights under this license will automatically terminate, and you must stop using and destroy all copies of the Software in your possession.
