@@ -25,8 +25,8 @@ A simple and barebones browser made with CefSharp. This project is designed for 
 ## Features
 
 ‣‣ Low Hardware Usage!
-         Around 15MB RAM
-         5% CPU
+         Around 22MB RAM
+         8%/0% CPU
 
 ‣‣ Transparent Window!
 
